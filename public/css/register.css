@@ -1,0 +1,25 @@
+
+
+.register {
+	border: 1px solid #e6e6e6;
+	margin-top: 1em;
+	padding: 1em;
+}
+
+
+
+
+.register input{
+	border-radius: 0px;
+}
+
+
+.register_name p {
+	color: #ff4d4d;
+	font-size: 0.8em;
+}
+
+.register h5 {
+	margin-bottom: 1.3em;
+	text-align: center;
+}

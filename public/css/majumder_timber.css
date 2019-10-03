@@ -1,0 +1,47 @@
+
+
+.card {
+	width: 19em;
+	/*height: 32em;*/
+}
+
+.card img {
+	height: 13em;
+}
+
+
+.list2 a {
+	font-size: 1.3em;
+	font-weight: 400;
+	font-family: Nunito;
+	text-decoration: none;
+	color: #404040;
+	margin: 0px;
+	display: block;
+	width: 100%;
+	/*height: 100%;*/
+	cursor: pointer;
+}
+
+.list2 li {
+	cursor: pointer;
+	height: 4.5em;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1); 
+	/*border: 1px solid #f2f2f2;*/
+}
+
+.list2 li:hover {
+	background-color: #d9d9d9;
+}
+
+.list2 i {
+	font-size: 0.9em;
+}
+
+.heading1 {
+	width: 73em;
+    height: .1rem;
+    background-color: #12A434;
+    margin: 1rem auto 1rem;
+    margin-top: 3em;
+}

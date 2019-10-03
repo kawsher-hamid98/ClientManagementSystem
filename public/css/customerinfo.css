@@ -1,0 +1,33 @@
+.customer1 {
+	background-color: #cccccc;
+	padding: 2em
+}
+
+.customer1 .name {
+	text-align: left;   
+	font-weight: 400;
+	font-style: italic;
+}
+
+.customer1 .data {
+	font-weight: 400;
+}
+
+.customer1 h5 {
+	margin-bottom: 1em
+}
+
+.customer1 a {
+	margin-top: 3em
+}
+
+
+/*.customer2 {
+	background-color: gray;
+	padding: 2em
+}
+
+.customer2 .name {
+	text-align: left;   
+}
+*/

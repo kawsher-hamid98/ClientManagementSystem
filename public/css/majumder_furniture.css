@@ -1,0 +1,39 @@
+
+.dropright a {
+	color: #4d4d4d;
+	letter-spacing: .1rem;
+	font-weight: 500;
+	font-size: .8rem;
+}
+
+.dropright .dropdown-menu {
+
+	border-radius: 20px;
+	background-color: #e6e6e6;
+	position: absolute;
+	padding: 0.7em;
+}
+
+.dropright .dropdown-menu a{
+	color: #4d4d4d;
+	letter-spacing: .1rem;
+	font-weight: 500;
+	font-size: .7rem;
+	font-family: sans-serif;
+}
+
+.dropright .dropdown-menu a:hover {
+	background-color: #cccccc;
+}
+
+.list-group {
+	margin-top: 2em;
+}
+
+.list-group li:hover {
+	background-color: #f2f2f2;
+}
+
+.list-group .nav-link:hover {
+	color: #4d4d4d;
+}

@@ -1,0 +1,43 @@
+.city {
+	background-color: #8c8c8c;
+	font-style: italic;
+	padding: 1em;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1); 
+
+}
+.city label {
+	font-size: 0.9em;
+	letter-spacing: 0.1em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.city ::placeholder {
+	font-size: 0.9em;
+	color: #808080;
+	font-weight: 600;
+	padding: 1em
+}
+
+.city input {
+	border-radius: 0px;
+	height: 2em
+}
+
+.city .selectBox {
+	border-radius: 0px;
+}
+
+
+.city h5 {
+	margin-bottom: 20px
+}
+
+.city .required:after { 
+   content:"*";
+   color:red;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+

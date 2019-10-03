@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+/*.navbar-brand {
+	font-weight: 600;
+	font-family: Lato;
+	margin-right: 12rem;
+	 font-size: 1em; 
+}
+*/
+.navbar {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .8rem;
+    letter-spacing: .1rem;
+	margin-bottom: 1em;
+	/*height: 4.2em;*/
+}
+
+.dropdown-menu {
+	background-color: #595959;
+	display: none;
+  	position: absolute;
+}
+
+.dropdown-menu a {
+  
+  display: block;
+}
+
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+
+
+.dropdown_majumder a {
+	color: #b3b3b3;
+	font-size: 0.8em;
+	text-transform: capitalize;
+	letter-spacing: .1rem;
+
+}
+
+.dropdown_majumder a:hover {
+	background-color: #999999;
+
+}
+
+.navbar1 {
+	background-color: #f2f2f2;
+
+}
+
+.nav-item:hover {
+	background-color: #808080;
+}

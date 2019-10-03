@@ -1,0 +1,25 @@
+
+
+.login {
+	border: 1px solid #e6e6e6;
+	margin-top: 2em;
+	padding: 1em;
+}
+
+
+
+
+.login input{
+	border-radius: 0px;
+}
+
+
+.login_name p {
+	color: #ff4d4d;
+	font-size: 0.8em;
+}
+
+.login h5 {
+	margin-bottom: 1.3em;
+	text-align: center;
+}
